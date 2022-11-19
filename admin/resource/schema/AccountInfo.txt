@@ -1,0 +1,5 @@
+<!--=*= ADMIN INFO =*=-->
+
+Root Admin
+email	: dumeringa@gmail.com
+pass	: abc123
